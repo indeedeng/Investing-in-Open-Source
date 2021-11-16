@@ -4,8 +4,8 @@ title: "Investing in Open Source: The FOSS Contributor Fund"
 exclude_toc: true
 ---
 <br>
-<p align="center">
-<img src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:75%;height:500px;padding-left:30px;"/>
+<p align="right">
+<img src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:250px;height:500px;padding-left:30px;"/>
 </p>
 </br>
 
