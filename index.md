@@ -3,7 +3,7 @@ layout: default
 title: "Investing in Open Source: The FOSS Contributor Fund"
 exclude_toc: true
 ---
-<img align="right" src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:auto;height:auto;padding-left:30px;"/>
+<img align="right" src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:auto;max-width:50%;height:auto;padding-left:30px;"/>
 
 <div style="page-break-after: always;"></div>
 
