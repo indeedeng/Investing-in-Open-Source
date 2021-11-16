@@ -15,9 +15,7 @@ In this report, Indeed's Duane O'Brien and Mandy Grover share each component of 
 * Finding a framework that works
 * Deciding when to make changes to your program
 
-GET THE EBOOK
-
-{% include button.html url="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/" %}
+<button name="button" onclick="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/">GET THE EBOOK</button>
 
 
 
