@@ -16,7 +16,7 @@ In this report, Indeed's Duane O'Brien and Mandy Grover share each component of 
 * Deciding when to make changes to your program
 
 
-<button style="background:#e51737;color:white;" name="button" onclick="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/">GET THE EBOOK</button>
+<button style="background:#2965f3;color:white;" name="button" onclick="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/">GET THE EBOOK</button>
 
 
 
