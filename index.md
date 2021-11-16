@@ -3,7 +3,10 @@ layout: default
 title: "Investing in Open Source: The FOSS Contributor Fund"
 exclude_toc: true
 ---
-<img align="right" src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:100%;height:600px;padding-left:30px;"/>
+<img align="right" src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:400px;height:600px;padding-left:30px;"/>
+
+<div style="page-break-after: always;"></div>
+
 
 In January 2019, Indeed, the world's #1 job site, launched a new program that democratizes how the company provides financial support to free and open source software projects. The FOSS Contributor Fund enables Indeed's employees to nominate, vote for, and fund projects. The FOSS Fund is a living blueprint designed to evolve with iteration and to increase meaningful participation in open source.
 
