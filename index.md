@@ -5,7 +5,7 @@ exclude_toc: true
 ---
 <br>
 <p align="right">
-<img src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:300px;height:500px;padding-left:30px;"/>
+<img src="{{ site.baseurl }}/images/investing in open source book cover.jpeg" alt="Investing in Open Source: The FOSS Contributor Fund Book Cover" style="width:400px;height:600px;padding-left:30px;"/>
 </p>
 </br>
 
