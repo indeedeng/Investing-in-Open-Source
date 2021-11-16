@@ -75,14 +75,3 @@ span.smallcode,span.xscode a code {
     outline: #990066 solid 5px;
     outline-offset: 5px;
   }
-  .column {
-    float: left;
-    width: 50%;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
