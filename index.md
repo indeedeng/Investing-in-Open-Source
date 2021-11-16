@@ -17,7 +17,7 @@ In this report, Indeed's Duane O'Brien and Mandy Grover share each component of 
 
 <div style="page-break-after: always;"></div>
 
-<button style="background:#2965f3;color:white;font-weight:bold;border-color:none" name="button" onclick="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/">GET THE EBOOK</button>
+<button style="background:#2965f3;color:white;font-weight:bold;border-color:#2965f3;" name="button" onclick="https://learning.oreilly.com/library/view/investing-in-open/9781098111915/">GET THE EBOOK</button>
 
 
 
